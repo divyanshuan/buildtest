@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d8c1beb2.chunk.css",
-    "main.js": "/static/js/main.d2b811ff.chunk.js",
-    "main.js.map": "/static/js/main.d2b811ff.chunk.js.map",
+    "main.js": "/static/js/main.32e95bae.chunk.js",
+    "main.js.map": "/static/js/main.32e95bae.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6f3914bc.js",
     "runtime-main.js.map": "/static/js/runtime-main.6f3914bc.js.map",
     "static/css/2.6e35be48.chunk.css": "/static/css/2.6e35be48.chunk.css",
@@ -69,6 +69,7 @@
     "static/media/joginder.c2aa3a9b.webp": "/static/media/joginder.c2aa3a9b.webp",
     "static/media/khushi.93cb0bdf.webp": "/static/media/khushi.93cb0bdf.webp",
     "static/media/komal.5bfbc8c1.webp": "/static/media/komal.5bfbc8c1.webp",
+    "static/media/kshitiz.115efbe2.webp": "/static/media/kshitiz.115efbe2.webp",
     "static/media/login-img.3b71b4e9.svg": "/static/media/login-img.3b71b4e9.svg",
     "static/media/mohit.09099b9e.webp": "/static/media/mohit.09099b9e.webp",
     "static/media/nikita.449c2c20.webp": "/static/media/nikita.449c2c20.webp",
@@ -98,6 +99,6 @@
     "static/css/2.6e35be48.chunk.css",
     "static/js/2.90f521bd.chunk.js",
     "static/css/main.d8c1beb2.chunk.css",
-    "static/js/main.d2b811ff.chunk.js"
+    "static/js/main.32e95bae.chunk.js"
   ]
 }
